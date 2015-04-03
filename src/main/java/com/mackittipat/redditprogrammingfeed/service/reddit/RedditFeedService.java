@@ -1,7 +1,7 @@
-package com.mackittipat.redditprogrammingfeed.service;
+package com.mackittipat.redditprogrammingfeed.service.reddit;
 
-import com.mackittipat.redditprogrammingfeed.model.reddit.RedditFeedDataChildrenModel;
-import com.mackittipat.redditprogrammingfeed.model.reddit.RedditFeedModel;
+import com.mackittipat.redditprogrammingfeed.service.reddit.model.reddit.RedditFeedDataChildrenModel;
+import com.mackittipat.redditprogrammingfeed.service.reddit.model.reddit.RedditFeedModel;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.http.HttpMethod;

@@ -1,4 +1,4 @@
-package com.mackittipat.redditprogrammingfeed.model.reddit;
+package com.mackittipat.redditprogrammingfeed.service.reddit.model.reddit;
 
 public class RedditFeedModel {
 
