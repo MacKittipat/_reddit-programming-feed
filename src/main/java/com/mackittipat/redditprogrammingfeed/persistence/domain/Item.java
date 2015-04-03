@@ -32,9 +32,4 @@ public class Item implements Serializable {
     public void setTitle(String title) {
         this.title = title;
     }
-
-    protected Item() {
-        // no-args constructor required by JPA spec
-        // this one is protected since it shouldn't be used directly
-    }
 }
